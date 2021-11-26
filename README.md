@@ -1,6 +1,6 @@
 # Seminar
 
-## Next seminar (28-th)  11.26
+## Next seminar (27-th)  11.26
 
 - Kaifeng Gao
 - Xinchen Li
@@ -15,7 +15,7 @@
 - Jiahui Li
 
 
-## 27-th seminar 10.29
+## 25-th seminar 10.29
 - Yangjun Mao
 - Yulei Lu
 - Zhen Wang
