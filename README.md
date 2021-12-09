@@ -1,6 +1,6 @@
 # Seminar
 
-## Next seminar (27-th)  11.26
+## Next seminar (27-th)  12.10
 
 - Kaifeng Gao
 - Xinchen Li
