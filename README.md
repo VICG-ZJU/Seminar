@@ -1,6 +1,13 @@
 # Seminar
 
-## Next seminar (27-th) ~~11.26~~ 12.10
+## Next seminar (28-th) 12.24
+
+- Zhefu song
+- Chenchi Zhang
+- Siqi Chen
+- Hanrong Shi
+
+## 27-th seminar (27-th) ~~11.26~~ 12.10
 
 - Kaifeng Gao
 - Xinchen Li
