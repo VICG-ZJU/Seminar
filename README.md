@@ -10,10 +10,10 @@
 
 ## 28-th seminar 12.24
 
-- Zhefu song
-- Chenchi Zhang
-- Siqi Chen
-- Hanrong Shi
+- Zhefu song, End-to-End Object Detection with Fully Convolutional Network (2021 CVPR)
+- Chenchi Zhang, Visual grounding via accumulated attention CVPR2018
+- Siqi Chen, Context-aware Scene Graph Generation with Seq2Seq Transformers  ICCV2021
+- Hanrong Shi, Decoupling Representation and Classifier for Long-Tailed Recognition ICLR2020
 
 ## 27-th seminar (27-th) ~~11.26~~ 12.10
 
