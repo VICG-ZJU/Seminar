@@ -1,6 +1,8 @@
 # Seminar
 
-## Next seminar (28-th) 12.24
+## Next seminar 
+
+## 28-th seminar 12.24
 
 - Zhefu song
 - Chenchi Zhang
@@ -16,9 +18,9 @@
 
 ##  26-th seminar  11.12
 
-- Xue Guo
-- Wenbo Ma
-- Shaoning Xiao
+- Xue Guo  Charge prediction modeling with interpretation enhancement driven by double-layer criminal system
+- Wenbo Ma  Detector-Free Weakly Supervised Grounding by Separation
+- Shaoning Xiao  NExT-QA: Next Phase of Question-Answering to Explaining Temporal Action
 - Jiahui Li
 
 
