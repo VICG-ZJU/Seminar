@@ -1,7 +1,7 @@
 # Seminar 
 - Slides are available at this [link](https://pan.zju.edu.cn/share/a1aa33039d1f4bf04246b3c193) (ZJU Cloud, ZJU members only)  
 
-## Next seminar (29-th) ~~2022.1.7~~  2022.1.7
+## Next seminar (29-th) ~~2022.1.7~~  2022.1.14
 
 - Lin Li
 - Yuhang Zheng
