@@ -41,7 +41,7 @@
 - Zhen Wang
 - Antao Pan
 
-![pic](pic/论文交流会20211209.png)
+![pic](pic/论文交流会2022-3-4.png)
 
 ![pic](pic/论文交流会20210914.png)
 
