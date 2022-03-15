@@ -1,7 +1,18 @@
 # Seminar 
 - Slides are available at this [link](https://pan.zju.edu.cn/share/a1aa33039d1f4bf04246b3c193) (ZJU Cloud, ZJU members only)  
 
-## Next seminar (29-th) ~~2022.1.7~~  2022.1.14
+## Next seminar (31-th) 2022.3.18
+
+
+
+## 30-th seminar 2022.3.4
+
+- Kexin Li
+- Xudong Tang
+- Yangjun Mao
+- Zheng Wang
+
+## (29-th) ~~2022.1.7~~  2022.1.14
 
 - Lin Li
 - Yuhang Zheng
@@ -40,6 +51,8 @@
 - Yulei Lu
 - Zhen Wang
 - Antao Pan
+
+![pic](pic/论文交流会2022-3-15.png)
 
 ![pic](pic/论文交流会2022-3-4.png)
 
